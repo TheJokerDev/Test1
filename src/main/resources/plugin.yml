@@ -1,0 +1,14 @@
+name: PrimitiveJavaLang
+version: ${project.version}
+main: me.thejokerdev.primitivejavalang.Main
+api-version: 1.16
+prefix: PrimitiveJavaLang
+authors: [ TheJokerDev ]
+description: Test 1 for OnlyMC developer application.
+website: play.onlymc.us
+
+commands:
+  plang:
+    description: Primitive Lang Examples.
+    aliases: [primitivelang]
+

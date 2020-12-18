@@ -1,0 +1,20 @@
+byte:
+  generateRandomByte: true
+
+char:
+  translateChar: true
+
+short:
+  generateRandomShort: true
+
+int:
+  generateRandomInteger: true
+
+long:
+  generateRandomInteger: true
+
+float:
+  generateRandomFloat: true
+
+double:
+  generateRandomDouble: true
